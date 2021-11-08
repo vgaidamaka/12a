@@ -1,0 +1,33 @@
+*{
+box-sizing: border-box;
+margin:0;
+padding:0;
+}
+
+ul{
+text-align:center;
+list-style-type: none;
+overflow: hidden;
+/*background-color: #111;*/
+}
+
+li {
+float: left;
+background-color: green;
+padding-left:100px;
+
+}
+a:link {
+  
+  font-size: 70px;
+  color: white;
+  text-decoration: none;
+  
+}
+
+a:hover {
+background-color: red;
+color: yellow; 
+font-size: 70px;
+text-decoration: none;
+}
